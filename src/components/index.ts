@@ -1,7 +1,13 @@
-// Exporting screens from components folder
+// Exporting components from components folder
 
-// export {default as screen} from './screen';
-// export * from './screen';;
-
+export {default as PagesHeader} from './pagesHeader';
+export {default as Heading} from './Heading';
+export * from './NavBar';
+export * from './Header';
+export * from './About';
+export * from './Services';
+export * from './Contact';
+export * from './Footer';
+export {default as InstagramIcon} from './InstagramIcon';
 
 
