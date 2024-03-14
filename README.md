@@ -46,8 +46,14 @@ This template provides a ready-to-use Expo project with TypeScript, Mantine UI f
    yarn install
    ```
 
+3. Update dependencies:
 
-3. Run the project:
+   ```bash
+   npx expo install --fix
+   ```
+
+
+4. Run the project:
 
    ```bash
    yarn start
