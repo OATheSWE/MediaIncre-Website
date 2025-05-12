@@ -46,7 +46,7 @@ const AboutPage = () => {
   ));
 
   return (
-    <Box className="">
+    <Box className="overflow-y-scroll overflow-x-hidden">
       <PagesHeader text={`About`} text2={`Home / About`} />
       <About2 />
       <Space h={`50px`} />  
